@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "イロドリ",
+  "base_artist": "KanoeRana",
+  "createdAt": "2026-01-09T08:54:34.727032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イロドリ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_イロドリ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イロドリ",
+      "artist": "KanoeRana",
+      "has_synced": true,
+      "path": "select/02_イロドリ_KanoeRana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イロドリ",
+      "artist": "カノエラナ",
+      "has_synced": true,
+      "path": "select/03_イロドリ_カノエラナ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イロドリ",
+      "artist": "カノエラナ",
+      "has_synced": true,
+      "path": "select/04_イロドリ_カノエラナ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イロドリ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/05_イロドリ_ClariS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イロドリ",
+      "artist": "カノエラナ",
+      "has_synced": false,
+      "path": "select/pl_01_イロドリ_カノエラナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "イロドリ",
+      "artist": "カノエラナ",
+      "has_synced": false,
+      "path": "select/pl_02_イロドリ_カノエラナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "イロドリ",
+      "artist": "カノエラナ",
+      "has_synced": false,
+      "path": "select/pl_03_イロドリ_カノエラナ.txt"
+    }
+  ]
+}
